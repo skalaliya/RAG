@@ -1,0 +1,9 @@
+Based on the provided context, I found a document with page metadata {'page': 2, 'source': '/home/xpert/Documents/llmRAG/SIDO.pdf'} that contains information about Yvan RIDE.
+
+From the content of this page (page_content='94 yannick.ab grall@arts-energy.com ARTS ENERGY Batteries haute \nperformances \nYvan RIDE Business\nDévelopper 06 88 21 02 \n23 y.ride@cthings.co CTHINGS IoT Gateway\nJean -Baptiste'):
+
+* Yvan RIDE's business is development.
+* He is the Business Développer at ARTS ENERGY, which specializes in high-performance batteries.
+* His contact number is 06 88 21 02 and his email address is y.ride@cthings.co.
+
+Please let me know if you'd like more information!
